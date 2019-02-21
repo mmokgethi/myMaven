@@ -15,5 +15,6 @@ public class App
         sum = a + b;
 
         System.out.println( "Sum = " + sum );
+        System.out.println( "Avarage = " + sum / 2);
     }
 }
